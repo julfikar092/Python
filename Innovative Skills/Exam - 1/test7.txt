@@ -1,0 +1,6 @@
+Tanzil
+1000
+3
+deposit 500
+withdraw 200
+withdraw 2000
