@@ -1,0 +1,6 @@
+3
+Math Physics Chemistry
+3
+Rahim borrow Math
+Rahim borrow Physics
+Rahim return Math
