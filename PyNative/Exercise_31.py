@@ -4,8 +4,8 @@ for num in range(2, 21):
     for j in range(2, (num//2 + 1)):
         if (num % j == 0):
             break
-
     else:
         prime_numbers.append(num)
 
-print(prime_numbers)
+alternative_prime = prime_numbers[::2]
+print(alternative_prime)
